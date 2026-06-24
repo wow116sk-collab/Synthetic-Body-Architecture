@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Synthetic Body Architecture: A Comparative Design Brief"
+message: "If you reference this work, please cite it as below."
+type: dataset
+authors:
+  - given-names: Pitarn
+    family-names: Rungsiyapornratana
+    orcid: "https://orcid.org/0009-0004-6411-2201"
+version: "1.2"
+date-released: "2026-06-24"
+license: CC-BY-4.0
+keywords:
+  - brain-computer interface
+  - brain perfusion
+  - synthetic body
+  - space exploration
+  - lifespan extension
+  - neuromorphic
+abstract: >
+  A comparative engineering design brief for housing a living human brain in a
+  synthetic body for lifespan extension and space exploration. Three architectures
+  are compared by how much biological tissue they retain. Established science is
+  the load-bearing spine; every non-trivial claim is epistemically tagged. The
+  core finding is that the engineering problems are largely solved or de-risked,
+  while two biological constraints remain: long-term brain perfusion (acute) and
+  neuron senescence (chronic).
