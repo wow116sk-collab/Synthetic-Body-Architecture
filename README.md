@@ -1,10 +1,13 @@
 # Synthetic Body Architecture
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20834976.svg)](https://doi.org/10.5281/zenodo.20834976)
+
 **A comparative design brief for housing a living human brain in a synthetic body — for lifespan extension and space exploration.**
 Grounded in 2026 technology and active laboratory research.
 
 Author: **Pitarn Rungsiyapornratana** · ORCID [0009-0004-6411-2201](https://orcid.org/0009-0004-6411-2201)
 Current version: **V1.2** · License: **CC-BY-4.0** (see `LICENSE`)
+DOI (concept, always latest): [10.5281/zenodo.20834976](https://doi.org/10.5281/zenodo.20834976)
 
 ---
 
