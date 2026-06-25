@@ -3,6 +3,11 @@
 All notable changes to the Synthetic Body Architecture document.
 Format: versions from V1.0 onward; the pre-1.0 development revisions (Rev 1–10) are preserved as history.
 
+## [1.2.2] — 2026-06-24
+Cosmetic only — no content change.
+- Removed a stale "(new, Rev 9)" marker from the §16.9 header.
+- Note: `v1.2.1` was a release-only re-tag (identical content to V1.2) created to register the Zenodo DOI.
+
 ## [1.2] — 2026-06-24
 - §16.1: added an explicit scope boundary — the project aims to *extend* healthy lifespan and capability enough for space exploration and to reduce physical limitations, **not** to achieve individual immortality (which would require defeating senescence, §16.6, and cannot come from substrate-copy/uploading — a closed route, §9 #16).
 

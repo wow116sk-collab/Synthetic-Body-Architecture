@@ -6,7 +6,7 @@
 Grounded in 2026 technology and active laboratory research.
 
 Author: **Pitarn Rungsiyapornratana** · ORCID [0009-0004-6411-2201](https://orcid.org/0009-0004-6411-2201)
-Current version: **V1.2** · License: **CC-BY-4.0** (see `LICENSE`)
+Current version: **V1.2.2** · License: **CC-BY-4.0** (see `LICENSE`)
 DOI (concept, always latest): [10.5281/zenodo.20834976](https://doi.org/10.5281/zenodo.20834976)
 
 ---
@@ -36,9 +36,9 @@ Radiation is engineering-tractable but more than a thick wall: it needs hydrogen
 
 ## How to read
 
-- `synthetic_body_design_V1.2.pdf` — rendered, with color-coded epistemic tags. **Start here.**
-- `synthetic_body_design_V1.2.md` — Markdown source (single source of truth).
-- `synthetic_body_design_V1.2.docx` — Word version.
+- `synthetic_body_design_V1.2.2.pdf` — rendered, with color-coded epistemic tags. **Start here.**
+- `synthetic_body_design_V1.2.2.md` — Markdown source (single source of truth).
+- `synthetic_body_design_V1.2.2.docx` — Word version.
 
 ## Epistemic tag legend
 
